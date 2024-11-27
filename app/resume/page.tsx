@@ -135,9 +135,9 @@ const Resume = () => {
                 </div>
                 <ul className="mt-3 leading-relaxed list-disc ml-6 font-normal">
                   <li>
-                    Lee, Jahyeong, et al. "Android malware detection using
+                    Lee, Jahyeong, et al. Android malware detection using
                     machine learning with feature selection based on the genetic
-                    algorithm." Mathematics 9.21 (2021): 2813. <br />
+                    algorithm. Mathematics 9.21 (2021): 2813. <br />
                     <a
                       href="https://doi.org/10.3390/math9212813"
                       className="underline hover:underline-offset-4"
